@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ScrollingFit</string>
+    <string name="symbifit">SymbiFit</string>
+    <string name="calories">Calories</string>
+    <string name="total_calories">Total Calories</string>
+    <string name="total">Total</string>
+    <string name="consumed">Consumed</string>
+    <string name="burnt">Burnt</string>
+    <string name="steps">Steps</string>
+    <string name="water">Water</string>
+    <string name="all_about_today">All about Today</string>
+    <string name="todo">TODO</string>
+    <string name="input_box">Input Box</string>
+    <string name="calories_">Calories-</string>
+    <string name="Brunt_">Burnt</string>
+    <string name="calories_consumed_input">calories_consumed</string>
+    <string name="calories_consumed_">calories_consumed_</string>
+    <string name="Consumed">Consumed</string>
+    <string name="Water_input">Water(l)</string>
+</resources>
